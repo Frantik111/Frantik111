@@ -5,3 +5,4 @@
 - 📫 How to reach me zdenko siegel at outlook dot sk
 - ⚡ Fun fact: carpets are low tech 
 
+[![wakatime](https://wakatime.com/badge/user/1b63c1f1-67f3-4385-91c3-fceaa2ca35fb.svg)](https://wakatime.com/@1b63c1f1-67f3-4385-91c3-fceaa2ca35fb)
