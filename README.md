@@ -9,4 +9,6 @@
 - WebPortfolio
 - PythonPortfolio
 
+---
+
 [![wakatime](https://wakatime.com/badge/user/1b63c1f1-67f3-4385-91c3-fceaa2ca35fb.svg)](https://wakatime.com/@1b63c1f1-67f3-4385-91c3-fceaa2ca35fb) From 13.9.2024
