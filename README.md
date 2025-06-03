@@ -1,13 +1,13 @@
 # 👋 Hi, I’m @Frantik111
 - 👀 I’m interested in carpets and tech.
 - 🌱 I’m currently learning django, data, aws
-- 💞️ I’m looking to collaborate on easy jobs for newbie for mi CV
+- 💞️ I’m looking to collaborate on easy jobs for newbie for mi [CV](https://www.linkedin.com/in/zdenkosiegel/)
 - 📫 How to reach me zdenko siegel at outlook dot sk
 - ⚡ Fun fact: carpets are low tech
 
 # 👀 See repository
-- WebPortfolio
-- PythonPortfolio
+- [WebPortfolio](https://github.com/Frantik111/WebPortfolio)
+- [PythonPortfolio](https://github.com/Frantik111/PythonPortfolio)
 
 ---
 
