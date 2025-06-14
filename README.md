@@ -6,8 +6,9 @@
 - ⚡ Fun fact: carpets are low tech
 
 # 👀 See repository
-- [WebPortfolio](https://github.com/Frantik111/WebPortfolio)
-- [PythonPortfolio](https://github.com/Frantik111/PythonPortfolio)
+- [[AnalyticPortfolio](https://github.com/Frantik111/AnalyticPortfolio)- Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpet Slovakia s.r.o.
+- [PythonPortfolio](https://github.com/Frantik111/PythonPortfolio) - "Webmaster" práce pre SKY Carpet Slovakia s.r.o. a osobné projekty
+- [WebPortfolio](https://github.com/Frantik111/WebPortfolio) - Projekty kódované v pythone
 
 ---
 
