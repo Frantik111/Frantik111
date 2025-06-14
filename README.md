@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning django, data, aws
 - 💞️ I’m looking to collaborate on easy jobs for newbie for mi [CV](https://www.linkedin.com/in/zdenkosiegel/)
 - 📫 How to reach me: zdenko siegel at outlook dot sk
-- ⚡ Fun fact: carpets are low tech, butt the world around them ist hi tech
+- ⚡ Fun fact: Rugs are low-tech, but the world around them is high-tech.
 
 # 👀 See repository
 - [[AnalyticPortfolio](https://github.com/Frantik111/AnalyticPortfolio)- Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpet Slovakia s.r.o.
