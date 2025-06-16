@@ -7,8 +7,8 @@
 
 # 👀 See repository
 - [AnalyticPortfolio](https://github.com/Frantik111/AnalyticPortfolio) - Projekty zamerané na analýzu údajov, sú súčasťou mojej práce v SKY Carpet Slovakia s.r.o.
-- [PythonPortfolio](https://github.com/Frantik111/PythonPortfolio) - "Webmaster" práce pre SKY Carpet Slovakia s.r.o. a osobné projekty
-- [WebPortfolio](https://github.com/Frantik111/WebPortfolio) - Projekty kódované v pythone
+- [PythonPortfolio](https://github.com/Frantik111/PythonPortfolio) - Projekty kódované v pythone
+- [WebPortfolio](https://github.com/Frantik111/WebPortfolio) - "Webmaster" práce pre SKY Carpet Slovakia s.r.o. a osobné projekty
 
 ---
 
