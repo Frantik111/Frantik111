@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Frantik111 - Zdenko Siegel
+# 👋 Hi, I’m Zdenko Siegel
 - 👀 I’m interested in carpets and tech.
 - 🌱 I’m currently learning django, data, aws
 - 💞️ I’m looking to collaborate on easy jobs for newbie for mi [CV](https://www.linkedin.com/in/zdenkosiegel/)
@@ -11,5 +11,3 @@
 - [WebPortfolio](https://github.com/Frantik111/WebPortfolio) - "Webmaster" práce pre SKY Carpet Slovakia s.r.o. a osobné projekty
 
 ---
-
-[![wakatime](https://wakatime.com/badge/user/1b63c1f1-67f3-4385-91c3-fceaa2ca35fb.svg)](https://wakatime.com/@1b63c1f1-67f3-4385-91c3-fceaa2ca35fb) From 13.9.2024
