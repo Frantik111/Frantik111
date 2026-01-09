@@ -27,13 +27,22 @@ Baví ma práca s **AI**, vizuálne myslenie a budovanie riešení, ktoré dáva
 End‑to‑end business analysis pre digitalizáciu papierového a Excelového procesu.  
 Zamerané na procesný dizajn, požiadavky a návrh moderného riešenia.
 
+[Odkaz](https://github.com/Frantik111/BA-Project-Digitalisation-of-Carpet-Deposit-Service)
+
+
 ### **🚀 E‑commerce Launch — Project Owner Case Study**  
 Kompletný návrh, špecifikácia a implementácia moderného e‑shopu.  
 Obsahuje business analýzu, UX, procesný dizajn, Upgates customizáciu, integrácie a Python/Django workflow nástroj.
 
+[Odkaz](https://github.com/Frantik111/Project-Owner-Case-Study-E-commerce-Launch)
+
+
 ### **🛍 BA Project — Retail Intelligence (Work in Progress)**  
 Experimentálny prototyp pre nízkonákladové monitorovanie zákazníckeho správania.  
 Súčasť širšej vízie Retail Intelligence — jednoduché MVP, nie perfektná presnosť.
+
+[Odkaz](https://github.com/Frantik111/BA-Project-Retail-Intelligence-WORK-IN-PROGRESS)
+
 
 ---
 
