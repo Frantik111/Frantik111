@@ -1,23 +1,23 @@
 # 👋 Hi, I’m Zdenko Siegel  
-### Business Analyst & Project Owner with a technical edge
+### Business Analyst & Project‑oriented Professional with a practical technical background
 
-Som BA/PO, ktorý prepája **analytické myslenie, procesný dizajn a technickú realizáciu**.  
-Vediem projekty end‑to‑end — od analýzy a návrhu až po funkčné MVP.  
-Vďaka technickému backgroundu zvládam **frontend aj backend prototypy**, čo mi umožňuje rýchlo validovať nápady a efektívne komunikovať s vývojármi.
+Pracujem na rozhraní **analýzy, procesov a realizácie projektov**.  
+Mám skúsenosti s vedením menších digitalizačných a softvérových projektov – od pochopenia požiadaviek, cez návrh riešenia, až po funkčné prototypy a zavedenie do praxe.  
+Technické základy mi pomáhajú lepšie rozumieť vývojárom, rýchlejšie validovať nápady a prekladať biznisové potreby do konkrétnych krokov.
 
-Baví ma práca s **AI**, vizuálne myslenie a budovanie riešení, ktoré dávajú biznisový aj používateľský zmysel.
+Baví ma práca s **technológiami, AI** a tvorba riešení, ktoré dávajú zmysel používateľom aj biznisu.
 
 ---
 
 ## 🔍 Čomu sa venujem
-- Business analýza & requirements  
-- Procesný dizajn (BPMN 2.0)  
-- UX špecifikácia a prototypovanie  
-- E‑commerce architektúra & integrácie  
-- Python/Django workflow nástroje  
-- **Frontend + backend MVP development**  
-- Práca s AI pri analýze, návrhu a automatizácii  
-- Flexibilita a schopnosť zastrešiť **viacrolové úlohy** (BA, PO, UX, technický prototypista)
+- Business analýza & práca s požiadavkami  
+- Procesný dizajn (BPMN 2.0) a optimalizácia  
+- UX špecifikácia a jednoduché prototypovanie  
+- E‑commerce procesy a integrácie  
+- Praktické Python/Django nástroje pre interné workflowy  
+- **MVP prototypovanie** (frontend + backend v základnom rozsahu)  
+- Práca s AI pri analýze a automatizácii  
+- Flexibilita a schopnosť zastrešiť **viac rolí** podľa potreby projektu (BA, koordinácia, návrh riešenia, prototypovanie)
 
 ---
 
@@ -25,24 +25,18 @@ Baví ma práca s **AI**, vizuálne myslenie a budovanie riešení, ktoré dáva
 
 ### **📦 BA Project — Digitalisation of Carpet Deposit Service**  
 End‑to‑end business analysis pre digitalizáciu papierového a Excelového procesu.  
-Zamerané na procesný dizajn, požiadavky a návrh moderného riešenia.
-
+Zamerané na procesný dizajn, požiadavky a návrh moderného riešenia.  
 [Odkaz](https://github.com/Frantik111/BA-Project-Digitalisation-of-Carpet-Deposit-Service)
-
 
 ### **🚀 E‑commerce Launch — Project Owner Case Study**  
 Kompletný návrh, špecifikácia a implementácia moderného e‑shopu.  
-Obsahuje business analýzu, UX, procesný dizajn, Upgates customizáciu, integrácie a Python/Django workflow nástroj.
-
+Obsahuje analýzu, UX, procesný dizajn, integrácie a interný workflow nástroj.  
 [Odkaz](https://github.com/Frantik111/Project-Owner-Case-Study-E-commerce-Launch)
-
 
 ### **🛍 BA Project — Retail Intelligence (Work in Progress)**  
 Experimentálny prototyp pre nízkonákladové monitorovanie zákazníckeho správania.  
-Súčasť širšej vízie Retail Intelligence — jednoduché MVP, nie perfektná presnosť.
-
+Jednoduché MVP zamerané na overenie konceptu.  
 [Odkaz](https://github.com/Frantik111/BA-Project-Retail-Intelligence-WORK-IN-PROGRESS)
-
 
 ---
 
@@ -52,8 +46,8 @@ Súčasť širšej vízie Retail Intelligence — jednoduché MVP, nie perfektn�
 ---
 
 ## 🎯 Aktuálne hľadám  
-Príležitosť v **business analýze alebo product ownershipe**, kde môžem priniesť:  
-- end‑to‑end ownership,  
+Príležitosť v **business analýze, projektovej koordinácii alebo IT projektovom manažmente**, kde môžem priniesť:  
+- end‑to‑end zodpovednosť,  
 - procesné a analytické myslenie,  
-- technickú zdatnosť pri MVP,  
-- flexibilitu a schopnosť pracovať v rôznych rolách podľa potreby projektu.
+- schopnosť prepojiť biznis a technológiu,  
+- flexibilitu a praktický prístup pri riešení problémov.
