@@ -1,23 +1,25 @@
 # 👋 Hi, I’m Zdenko Siegel  
-### Business Analyst & Project‑oriented Professional with a practical technical background
+### Business Analyst & ERP‑oriented Professional with a practical technical background
 
-Pracujem na rozhraní **analýzy, procesov a realizácie projektov**.  
+Pracujem na rozhraní **analýzy, procesov, ERP systémov a realizácie projektov**.  
 Mám skúsenosti s vedením menších digitalizačných a softvérových projektov – od pochopenia požiadaviek, cez návrh riešenia, až po funkčné prototypy a zavedenie do praxe.  
 Technické základy mi pomáhajú lepšie rozumieť vývojárom, rýchlejšie validovať nápady a prekladať biznisové potreby do konkrétnych krokov.
 
-Baví ma práca s **technológiami, AI** a tvorba riešení, ktoré dávajú zmysel používateľom aj biznisu.
+Baví ma práca s **technológiami, ERP systémami, AI** a tvorba riešení, ktoré dávajú zmysel používateľom aj biznisu.
 
 ---
 
 ## 🔍 Čomu sa venujem
 - Business analýza & práca s požiadavkami  
 - Procesný dizajn (BPMN 2.0) a optimalizácia  
+- ERP logika, dátové štruktúry a podpora používateľov  
+- Návrh a validácia funkčných riešení v ERP prostredí  
 - UX špecifikácia a jednoduché prototypovanie  
 - E‑commerce procesy a integrácie  
 - Praktické Python/Django nástroje pre interné workflowy  
 - **MVP prototypovanie** (frontend + backend v základnom rozsahu)  
 - Práca s AI pri analýze a automatizácii  
-- Flexibilita a schopnosť zastrešiť **viac rolí** podľa potreby projektu (BA, koordinácia, návrh riešenia, prototypovanie)
+- Flexibilita a schopnosť zastrešiť **viac rolí** podľa potreby projektu (BA, ERP konzultant, koordinácia, návrh riešenia, prototypovanie)
 
 ---
 
@@ -46,8 +48,9 @@ Jednoduché MVP zamerané na overenie konceptu.
 ---
 
 ## 🎯 Aktuálne hľadám  
-Príležitosť v **business analýze, projektovej koordinácii alebo IT projektovom manažmente**, kde môžem priniesť:  
+Príležitosť v **business analýze, ERP konzultingu, projektovej koordinácii alebo IT projektovom manažmente**, kde môžem priniesť:  
 - end‑to‑end zodpovednosť,  
 - procesné a analytické myslenie,  
 - schopnosť prepojiť biznis a technológiu,  
+- orientáciu na používateľa a prácu s ERP systémami,  
 - flexibilitu a praktický prístup pri riešení problémov.
