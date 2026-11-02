@@ -37,11 +37,3 @@ Specification and implementation of a modern e-shop: analysis, UX, process desig
 ## Currently
 Deepening my work with SAP IS-U data, data quality and automation. Always glad to exchange ideas with people working on similar problems.
 <!-- END BLOCK: currently -->
-
-## 🎯 Aktuálne hľadám  
-Príležitosť v **business analýze, ERP konzultingu, projektovej koordinácii alebo IT projektovom manažmente**, kde môžem priniesť:  
-- end‑to‑end zodpovednosť,  
-- procesné a analytické myslenie,  
-- schopnosť prepojiť biznis a technológiu,  
-- orientáciu na používateľa a prácu s ERP systémami,  
-- flexibilitu a praktický prístup pri riešení problémov.
