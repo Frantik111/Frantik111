@@ -18,7 +18,7 @@ I work in SAP IS-U & CRM support in the energy utility sector. I analyse data fr
 <!-- BLOCK: project-answer42 -->
 ## answer42.sk — personal sandbox
 My own hosting for experiments: an n8n automation instance, a Python website and a low-code application ([what each does in one line]).
-**Stack:** [Python, n8n, low-code tool, hosting] · **Type:** personal project · **Status:** live · [answer42.sk](https://answer42.sk)
+**Stack:** [Python, n8n, appsmith, hosting on hezner.de] · **Type:** personal project · **Status:** live · [answer42.sk](https://answer42.sk)
 <!-- END BLOCK: project-answer42 -->
 
 <!-- BLOCK: project-carpet-deposit -->
