@@ -1,51 +1,42 @@
-# 👋 Hi, I’m Zdenko Siegel  
-### Business Analyst & ERP‑oriented Professional with a practical technical background
+<!-- BLOCK: header -->
+# 👋 Zdenko Siegel
+**SAP IS-U & CRM | Fixing the cause, not just the ticket | Data Quality & Automation**
 
-Pracujem na rozhraní **analýzy, procesov, ERP systémov a realizácie projektov**.  
-Mám skúsenosti s vedením menších digitalizačných a softvérových projektov – od pochopenia požiadaviek, cez návrh riešenia, až po funkčné prototypy a zavedenie do praxe.  
-Technické základy mi pomáhajú lepšie rozumieť vývojárom, rýchlejšie validovať nápady a prekladať biznisové potreby do konkrétnych krokov.
+I work in SAP IS-U & CRM support in the energy utility sector. I analyse data from SAP tables, clean it in Power Query and pandas, and turn recurring issues into documented fixes. Outside work I build small projects to learn and test ideas: process analysis, e-commerce, Python/Django tools and automation.
 
-Baví ma práca s **technológiami, ERP systémami, AI** a tvorba riešení, ktoré dávajú zmysel používateľom aj biznisu.
+[LinkedIn](https://www.linkedin.com/in/zdenkosiegel/)
+<!-- END BLOCK: header -->
 
----
+<!-- BLOCK: focus -->
+## What I work with
+- Root cause analysis and process documentation (BPMN 2.0)
+- Data analysis and cleaning: [SQL, Python/pandas, Power Query, Power BI]
+- Requirements, process design and simple prototypes (Python/Django)
+- Automation and AI-assisted analysis
+<!-- END BLOCK: focus -->
 
-## 🔍 Čomu sa venujem
-- Business analýza & práca s požiadavkami  
-- Procesný dizajn (BPMN 2.0) a optimalizácia  
-- ERP logika, dátové štruktúry a podpora používateľov  
-- Návrh a validácia funkčných riešení v ERP prostredí  
-- UX špecifikácia a jednoduché prototypovanie  
-- E‑commerce procesy a integrácie  
-- Praktické Python/Django nástroje pre interné workflowy  
-- **MVP prototypovanie** (frontend + backend v základnom rozsahu)  
-- Práca s AI pri analýze a automatizácii  
-- Flexibilita a schopnosť zastrešiť **viac rolí** podľa potreby projektu (BA, ERP konzultant, koordinácia, návrh riešenia, prototypovanie)
+<!-- BLOCK: project-answer42 -->
+## answer42.sk — personal sandbox
+My own hosting for experiments: an n8n automation instance, a Python website and a low-code application ([what each does in one line]).
+**Stack:** [Python, n8n, low-code tool, hosting] · **Type:** personal project · **Status:** live · [answer42.sk](https://answer42.sk)
+<!-- END BLOCK: project-answer42 -->
 
----
+<!-- BLOCK: project-carpet-deposit -->
+## Digitalisation of a Carpet Deposit Service
+Business analysis of a paper and Excel-based process: process design (BPMN), requirements and a proposed digital solution.
+**Type:** [portfolio project / based on a real process] · [Repository](https://github.com/Frantik111/BA-Project-Digitalisation-of-Carpet-Deposit-Service)
+<!-- END BLOCK: project-carpet-deposit -->
 
-## 📌 Pinned projekty
+<!-- BLOCK: project-ecommerce -->
+## E-commerce Launch — Project Owner Case Study
+Specification and implementation of a modern e-shop: analysis, UX, process design, integrations and an internal workflow tool.
+**Stack:** [Python, Django, ...] · **Type:** [case study] · [Repository](https://github.com/Frantik111/Project-Owner-Case-Study-E-commerce-Launch)
+<!-- END BLOCK: project-ecommerce -->
 
-### **📦 BA Project — Digitalisation of Carpet Deposit Service**  
-End‑to‑end business analysis pre digitalizáciu papierového a Excelového procesu.  
-Zamerané na procesný dizajn, požiadavky a návrh moderného riešenia.  
-[Odkaz](https://github.com/Frantik111/BA-Project-Digitalisation-of-Carpet-Deposit-Service)
-
-### **🚀 E‑commerce Launch — Project Owner Case Study**  
-Kompletný návrh, špecifikácia a implementácia moderného e‑shopu.  
-Obsahuje analýzu, UX, procesný dizajn, integrácie a interný workflow nástroj.  
-[Odkaz](https://github.com/Frantik111/Project-Owner-Case-Study-E-commerce-Launch)
-
-### **🛍 BA Project — Retail Intelligence (Work in Progress)**  
-Experimentálny prototyp pre nízkonákladové monitorovanie zákazníckeho správania.  
-Jednoduché MVP zamerané na overenie konceptu.  
-[Odkaz](https://github.com/Frantik111/BA-Project-Retail-Intelligence-WORK-IN-PROGRESS)
-
----
-
-## 🔗 LinkedIn  
-[Zdenko Siegel na LinkedIn](https://www.linkedin.com/in/zdenkosiegel/)
-
----
+<!-- BLOCK: currently -->
+## Currently
+Deepening my work with SAP IS-U data, data quality and automation. Always glad to exchange ideas with people working on similar problems.
+<!-- END BLOCK: currently -->
 
 ## 🎯 Aktuálne hľadám  
 Príležitosť v **business analýze, ERP konzultingu, projektovej koordinácii alebo IT projektovom manažmente**, kde môžem priniesť:  
